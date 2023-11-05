@@ -25,4 +25,4 @@ Skills:  HTML / CSS / BootStrap/php/wordpress/learn javaScript
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MstFatima)  
 
-![Profile views](https://gpvc.arturio.dev/MstFatima)  
+![Profile views](https://github.com/MstFatima)  
