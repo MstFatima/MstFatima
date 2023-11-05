@@ -17,4 +17,12 @@ Skills:  HTML / CSS / BootStrap/php/wordpress/learn javaScript
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MstFatima&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MstFatima)  
+
+![GitHub metrics](https://metrics.lecoq.io/MstFatima)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MstFatima)  
+
+![Profile views](https://gpvc.arturio.dev/MstFatima)  
